@@ -1,7 +1,7 @@
 ![](https://img.shields.io/github/repo-size/Ysnsn/wangyiyun-action?style=for-the-badge)
 # 网易云音乐自动签到 + 刷歌
 > 网易云音乐自动登录签到 + 刷歌 310 首
-
+1
 ## Github Actions 部署指南
 
 ### 一、Fork 此仓库
